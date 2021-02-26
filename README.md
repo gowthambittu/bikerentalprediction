@@ -34,7 +34,7 @@ The aim of this project is predict the bike rental count on a particular time al
 ![image](https://user-images.githubusercontent.com/46658606/109354760-e8def580-7843-11eb-95bb-c031b206f7f6.png)
 
 
-
+**
 **Data distribution of contiuous variables using histograms**
 
 ![image](https://user-images.githubusercontent.com/46658606/109354800-f98f6b80-7843-11eb-8f33-59df39f006d3.png)
