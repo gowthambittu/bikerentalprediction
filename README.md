@@ -22,6 +22,9 @@ The aim of this project is predict the bike rental count on a particular time al
         **
  **Boxplot Analysis**
  ![Boxplot1](https://user-images.githubusercontent.com/46658606/109354580-ab7a6800-7843-11eb-9144-c308df68f0af.png)
+ 
+ ![image](https://user-images.githubusercontent.com/46658606/109354646-c51baf80-7843-11eb-8dea-c7711f6d4f67.png)
+
 
 
 
